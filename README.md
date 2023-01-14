@@ -1,6 +1,6 @@
 # Rasterizer project
 THe goal of this project was to create a rasterizer program, running on CPU.
-This project was done as a part of our 3d render engine classes.
+This project was done as a part of our 3d rendering classes, at the school ISART Digital.
 
 ## Summary
 <ul>
@@ -66,8 +66,8 @@ This project was done as a part of our 3d render engine classes.
     In the interface, the tab:
 <ul>
     <li><b> Scene</b> : allows you to add lights, delete them, change the ambient, diffuse and specular parameters. The lights can have different colors and different luminosity. You can also show light.</li>
-    <li><b> Config</b> : allows to display the wireFrame render, the orthographic vision, the perspective correction, the light in per pixels and you can change the MSAA value. Also displays the number of FPS. And allow you to   change the color of the background. You can also lock the scale horizontaly, verticaly and in 4/3. You can also change the filter with the slider (default : No filter). There is more than 10 filters (see in <a href = "#filter"> gallery </a>)</li>
-    <li><b> Triangles</b> : Displays the number of triangles in total, and the number of triangles drawn. Also displays the number of triangles per models, When you click on a models buttons you can: see the name of the mesh, change the position, the rotation, the scale of the models, the color, the shader, and the texture. Can also choose to show or not the meshs and enable or not the bilinear filtering of every Models. There is 4 shaders (see in <a href = "#shader"> gallery </a>)
+    <li><b> Config</b> : allows to display the wireFrame render, the orthographic vision, the perspective correction, the light in per pixels and you can change the MSAA value. Also displays the number of FPS. And allow you to   change the color of the background. You can also lock the scale horizontaly, verticaly and in 4/3. You can also change the filter with the slider (default : No filter). There is more than 10 filters (see in <a href = "#filters"> gallery </a>)</li>
+    <li><b> Triangles</b> : Displays the number of triangles in total, and the number of triangles drawn. Also displays the number of triangles per models, When you click on a models buttons you can: see the name of the mesh, change the position, the rotation, the scale of the models, the color, the shader, and the texture. Can also choose to show or not the meshs and enable or not the bilinear filtering of every Models. There is 4 shaders (see in <a href = "#shaders"> gallery </a>)
     <li> <b>Versions</b> : Allows you to change versions.</li>
     <li> <b>Framebuffer</b> : Displays the scene.</li>
 </ul>

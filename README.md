@@ -96,7 +96,7 @@ This project was done as a part of our 3d render engine classes.
                 <li>GrayScale<br>
                 <li>Hash<br>
                 <li>VHS<br>
-                    <img src="assets/ScreenShots_Gifs/vhs.png" width="" height="500"></li>
+                    <img src="assets/ScreenShots_Gifs/VHS.png" width="" height="500"></li>
                 <li>Pumpkin view (source: Minecraft) </li>
                 <li>Creeper view (source: Minecraft) </li>
             </b></ol>
@@ -112,7 +112,7 @@ This project was done as a part of our 3d render engine classes.
                 <li>Wave <br>
                     <img src="assets/ScreenShots_Gifs/wave.gif" width="" height="250"></li>
                 <li>Cel <br>
-                    <img src="assets/ScreenShots_Gifs/cel.png" width="" height="250"></li>
+                    <img src="assets/ScreenShots_Gifs/Cel.png" width="" height="250"></li>
                 <li>Glitch <br>
                     <img src="assets/ScreenShots_Gifs/glitch.gif" width="" height="250"></li>
             </ul>
@@ -127,5 +127,5 @@ This project was done as a part of our 3d render engine classes.
 
 <br /> 
 <li><a href="https://www.isart.fr"> Isart Digital </u> </b> <br>
-<img src="assets/Textures/logo.png" width="" height="200"></li>
+<img src="assets/Textures/Logo.png" width="" height="200"></li>
 </div>
